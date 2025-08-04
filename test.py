@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 import sys
 import os
-from . import epd7in3f
+import epd7in3f
 
 
 import logging
